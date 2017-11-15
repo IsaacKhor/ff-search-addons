@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Google Scholar</ShortName>
-  <Description>Search Google Scholar.</Description>
+  <ShortName>Library Genesis</ShortName>
+  <Description>Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Url type="text/html" template="http://libgen.io/search.php">
     <Param name="req" value="{searchTerms}"/>
